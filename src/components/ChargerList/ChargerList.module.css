@@ -1,0 +1,11 @@
+.listContainer {
+    margin-top: 1rem;
+  }
+  
+  .emptyState {
+    font-style: italic;
+    color: gray;
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
